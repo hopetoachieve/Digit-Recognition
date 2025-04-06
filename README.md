@@ -11,7 +11,7 @@
   <br>
  <h2>CNN MODEL Summary:</h2>
  <br>1. It is a 17 layer model with Conv2D,MaxPooling2D,BatchNormalization,Dense,Flatten and Dropout layer combination.
- <be>2. Input layer has 32 neuron and output layer has 10 neurons as 10 different clases exsist.
+ <br>2. Input layer has 32 neuron and output layer has 10 neurons as 10 different clases exsist.
  <br>3. 30 epochs are used.
  <br>4. Categorical_loss is loss function and adam is used for optimization.
  <br>5. Model gives 99.15% accuracy.
